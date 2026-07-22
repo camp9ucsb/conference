@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CAMP[6]
-email: camp-stanford@lists.stanford.edu
+title: CAMP[9]
+mailing list:
 description: >- # this means to ignore newlines until "baseurl:"
-  CAMP[6] is organized by Judith Degen, with much help from
-  our graduate and undergraduate volunteers. It is made possible
-  with generous funding from the Stanford Department of Linguistics
-  and the Stanford School for Humanities and Sciences. CAMP is
+  CAMP[9] is organized by Laurel Brehm and Simon Todd. It is made possible
+  by the UC MRPI grant 'Leveraging California's Linguistic Diversity to improve large language models'. CAMP is
   meta-organized by Jesse Harris (UCLA) and Elsi Kaiser (USC).
 
 baseurl: "" # the subpath of your site, e.g. /blog
