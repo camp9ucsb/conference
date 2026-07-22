@@ -15,3 +15,8 @@ Lot 29 is the closest parking lot. Lot 22 is the closest lot with electric vehic
 ## Accomodations
 We'll do our best to offer couch surfing spots. 
 There are hotels nearby.
+
+## Food and Drink
+
+
+## Things to Do
