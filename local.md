@@ -7,19 +7,25 @@ order: 4
 
 CAMP[9] will be held at the McCune Conference room (6020 Humanities and Social Sciences Building) at UCSB. 
 
-## Getting to UCSB
+## 🚘 🚆 🛩️ Getting to UCSB
 Confusingly, UCSB is in Goleta, not Santa Barbara! 
 
 **Driving Times**
+
   -5-6 hours to south part of Bay Area.
+  
   -2-3 hours to LA
   
 **Amtrak**
+
   -From San Diego and LA, use the Goleta Amtrak stop
+  
   -From Bay Area / San Jose, use the Santa Barbara Amtrak stop.
 
 **Flights**
-  -The SBA airport is basically on campus-- you can't beat the convenience! 
+
+  -The SBA airport is basically on campus-- and sometimes the flights are a reasonable price.
+  
   -There are flights to OAK, SFO, LAX, SMF, and SAN.
 
 ## 🚗 🚌 Local Transportation
