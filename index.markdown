@@ -21,6 +21,9 @@ The **CA**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-
 * Neurolinguistics
 * Experimental syntax, semantics, or phonology
 
+## Special Friday Session
+This year, we're hosting another special Friday half-day workshop with invited speakers. The theme is Language Diversity and Language Technology. 
+
 ## Important Dates
 All deadlines are 11:59 PM PST.
 
