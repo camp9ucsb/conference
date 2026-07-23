@@ -19,18 +19,19 @@ For both, you can pay at the blue kiosks or with the ParkMobile app.
 
 
 **Bus** 
-https://sbmtd.gov/ for more info.
 
 The main campus bus stop is "North Hall Bus Loop".
 
-Bus 11 goes between the airport - UCSB - Camino Real Marketplace
+-Bus 11 goes between the airport - UCSB - Camino Real Marketplace
 
-Bus 24x goes between downtown SB- UCSB - Camino Real Marketplace
+-Bus 24x goes between downtown SB- UCSB - Camino Real Marketplace
 
 Fares are $2.50 by cash or card. You can get at 10 ride pass at the student bookstore for a discount (this can be shared among people).
 
+See https://sbmtd.gov/ for more info.
+
 ## Accomodations
-We'll do our best to offer couch surfing spots.
+We'll do our best to offer couch surfing spots. More info to come.
 
 Hotels:
 The Club at UCSB,
