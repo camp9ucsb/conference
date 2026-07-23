@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   CAMP[9] is organized by Laurel Brehm and Simon Todd. It is made possible by a grant from the University of California Office of the President. CAMP is
   meta-organized by Jesse Harris (UCLA) and Elsi Kaiser (USC).
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/conference" # the subpath of your site, e.g. /blog
+url: "camp9ucsb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
 
