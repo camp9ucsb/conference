@@ -21,3 +21,5 @@ Submissions reporting in-progress studies are invited, provided that:
 * Interpretation of possible outcomes with regard to the research question is clearly articulated.
 
 Student and post-doc research will be prioritized over faculty authors, and junior faculty over more senior faculty for presentations. First authors must be **based at a university in California**.
+
+Talks will be selected based on (a) quality, as assesed by reviewers, (b) student author status, (c) balance across areas of study.
