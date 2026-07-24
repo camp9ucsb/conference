@@ -11,7 +11,7 @@ CAMP[9] abstracts can be submitted for **talks, posters, or both**.
 
 **Open Review Account (if needed):** **August 21, 2026** by 11:59 PM PST. 
 
-The Open Review platform has a somewhat slow profile creation time-- ~it can take up to 2 weeks for people who use a non .edu address for their account~. If you have never used Open Review before, please create your profile ASAP!
+The Open Review platform has a somewhat slow profile creation time-- *it can take up to 2 weeks for people who use a non .edu address for their account*. If you have never used Open Review before, please create your profile ASAP!
 
 [Request an Open Review account](https://openreview.net/signup)
 
