@@ -22,28 +22,28 @@ order: 3
 
 9:30 -- Welcome!
 
-9:40 - 10:30 -- 3 Talks 
+9:40 - 10:30 -- 2 Talks 
 
 10:30 - 11:45 -- Coffee and poster session 1
 
-11:45 - 12:35 -- 3 Talks
+11:45 - 12:35 -- 2 Talks
 
 12:35 - 1:40 -- Lunch 
 
-1:40 - 2:30 -- 3 Talks
+1:40 - 2:30 -- 2 Talks
 
 2:30 - 3:45 -- Coffee and poster session 2
 
-3:45 - 5:00 -- 4 Talks
+3:45 - 5:00 -- 3 Talks
 
 ## Sunday, Nov 8
 9:00 -- Coffee and breakfast
 
-9:20 - 10:35 -- 4 Talks 
+9:20 - 10:35 -- 3 Talks 
 
 10:40 - 11:00 -- Coffee break
 
-11:00 - 11:50 -- 3 Talks
+11:00 - 11:50 -- 2 Talks
 
 11:50 - 12:00 -- Closing remarks
 
