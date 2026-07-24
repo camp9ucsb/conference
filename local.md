@@ -17,6 +17,7 @@ Confusingly, UCSB is in Goleta, not Santa Barbara!
   -2-3 hours from/to LA
   
 **Amtrak**
+
 Amtrak is slow but VERY scenic! https://www.amtrak.com/home
 
   -From San Diego and LA, use the Goleta Amtrak stop (GTA)
