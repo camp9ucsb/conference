@@ -34,7 +34,7 @@ All deadlines are 11:59 PM PST.
 * **November 6-8:** CAMP\[9\]!
 
 ## Join the Mailing List!
-For announcements about CAMP[9] and future CAMPs: Visit https://groups.google.com/g/camp-psycholing while logged into a google account and click the button by the group name that says “Ask to join group”.
+For announcements about CAMP[9] and future CAMPs: Visit [https://groups.google.com/g/camp-psycholing](https://groups.google.com/g/camp-psycholing) while logged into a google account and click the button by the group name that says “Ask to join group”.
 
 ## Past CAMPs
 CAMP has been held at [UCLA](https://sites.google.com/view/camp-ucla2017/home), [USC](https://sites.google.com/view/camp-usc2018/home), [UCSC](https://sites.google.com/view/camp-ucsc/), [UCI](https://sites.google.com/view/camp-2021/home), [UCLA](https://sites.google.com/view/camp5-ucla), [Stanford](https://camp6.github.io/), [UCSD](https://camp7.ucsd.edu/), and [UCD](https://sites.google.com/ucdavis.edu/camp8/)
