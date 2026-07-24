@@ -21,7 +21,7 @@ The **CA**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-
 * Neurolinguistics
 * Experimental syntax, semantics, phonetics, or phonology
 
-By conference poligy, registration is free and everyone is welcome to attend but first authors must be based in California.
+By conference policy, registration is free and everyone is welcome to attend but first authors must be based in California.
 
 ## 🌟 Special Friday Session
 [Our MRPI grant](https://ucop.edu/research-initiatives/programs/mrpi/index.html) is funding another additional Friday half-day workshop with invited speakers. The theme is Language Diversity and Language Technology. 
