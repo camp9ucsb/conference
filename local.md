@@ -12,9 +12,9 @@ Confusingly, UCSB is in Goleta, not Santa Barbara!
 
 **Driving Times**
 
-  -5-6 hours to south part of Bay Area.
+  -5-6 hours from/to south part of Bay Area.
   
-  -2-3 hours to LA
+  -2-3 hours from/to LA
   
 **Amtrak**
 
@@ -55,18 +55,21 @@ See https://sbmtd.gov/ for more info.
 We'll do our best to offer couch surfing spots. More info to come.
 
 Hotels:
-The Club at UCSB,
-Hilton Garden Inn Goleta,
+The Club at UCSB
+Hilton Garden Inn Goleta
 Courtyard by Marriot Goleta
+Best Western South Coast Inn 
 
 ## 🌯 ☕ Food and Drink
 Fan favorites include...
 
 Campus: Coral Tree Café, Buchannan coffee cart, the Arbor
 
-In Isla Vista: Freebirds, Poke Theory SB, Woodstock's, Spudnuts Donuts, Cajé (Coffee)
+In Isla Vista: Freebirds, Poke Theory SB, Woodstock's, Spudnuts Donuts, Cajé (Coffee), Elubia's Kitchen
 
-In/near Camino Real Marketplace: Lilly's Tacos, Jane at the Marketplace, Janine's, Cajun Kitchen, SB Fish Market-Goleta, Phamous Cafe, Draughtsmen Aleworks, Slodoco Donuts (open 24 hours!)
+In/near Camino Real Marketplace: Lilly's Tacos, Jane at the Marketplace, Janine's, Cajun Kitchen, SB Fish Market-Goleta, Phamous Cafe, Draughtsmen Aleworks, Rooftop Bar (at Hilton Garden Inn), Finney's Crafthouse, Rory's Ice Cream, Slodoco Donuts (open 24 hours!)
+
+Elsewhere in Goleta: Nikka Ramen, Masala Spice (can accomodate large reservations), CAYA, Jonesy's Fried Chicken, Cajun Kitchen (only open breakfast/lunch), Noodle City, Santa Barbara Cider Company, Old Town Coffee, Oat Bakery 
 
 ## 🏖️ Things to Do
 Tidepooling / plover watching at Coal Oil Point beach or Campus Point beach
