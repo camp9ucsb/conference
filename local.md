@@ -56,9 +56,9 @@ See https://sbmtd.gov/ for more info.
 We'll do our best to offer couch surfing spots. More info to come.
 
 Hotels:
-The Club at UCSB
-Hilton Garden Inn Goleta
-Courtyard by Marriot Goleta
+The Club at UCSB,
+Hilton Garden Inn Goleta,
+Courtyard by Marriot Goleta,
 Best Western South Coast Inn 
 
 ## 🌯 ☕ Food and Drink
@@ -66,7 +66,7 @@ Fan favorites include...
 
 Campus: Coral Tree Café, Buchannan coffee cart, the Arbor
 
-In Isla Vista: Freebirds, Poke Theory SB, Woodstock's, Spudnuts Donuts, Cajé (Coffee), Elubia's Kitchen
+In Isla Vista: Freebirds, Poke Theory SB, Woodstock's, Cajé (Coffee), [Elubia's Kitchen (South coast's best tamales)](https://www.santabarbaratamales.com/)
 
 In/near Camino Real Marketplace: Lilly's Tacos, Jane at the Marketplace, Janine's, Cajun Kitchen, SB Fish Market-Goleta, Phamous Cafe, Draughtsmen Aleworks, Rooftop Bar (at Hilton Garden Inn), Finney's Crafthouse, Rory's Ice Cream, Slodoco Donuts (open 24 hours!)
 
