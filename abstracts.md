@@ -12,21 +12,17 @@ CAMP[9] abstracts can be submitted for **talks, posters, or both**.
 **Open Review Account (if needed):** **August 21, 2026** by 11:59 PM PST. 
 
 The Open Review platform has a somewhat slow profile creation time-- *it can take up to 2 weeks for people who use a non .edu address for their account*. 
-* If you have never used Open Review before, please create your profile ASAP!
-
-[Request an Open Review account](https://openreview.net/signup)
+* If you have never used Open Review before, please create your profile ASAP if you intend to submit or review!
+* [Request an Open Review account](https://openreview.net/signup)
 
 
 **Abstract Deadline:** **September 4, 2026** by 11:59 PM PST. 
-
-[Submission Portal](https://openreview.net/group?id=CAMP/2026/Workshop)
+* [Submission Portal](https://openreview.net/group?id=CAMP/2026/Workshop)
 
 
 **Reviewer Registration:** **September 4, 2026** by 11:59 PM PST. 
-
-We encourage PhD students, postdocs, industry folks, and faculty alike to sign up to review! (Please make sure you have an Open Review account by this time!)
-
-[Reviewer sign-up form](https://forms.gle/oC8ZRWEC1SRANrXN9)
+* We encourage PhD students, postdocs, industry folks, and faculty alike to sign up to review! (Please make sure you have an Open Review account as well!)
+* [Reviewer sign-up form](https://forms.gle/oC8ZRWEC1SRANrXN9)
 
 
 ## ✍️ Submission Details
