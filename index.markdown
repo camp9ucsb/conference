@@ -27,6 +27,7 @@ The **CA**lifornia **M**eeting on **P**sycholinguistics is a free, informal two-
 ## Important Dates
 All deadlines are 11:59 PM PST.
 
+* **August 28** Open Review profile creation for authors/reviewers new to the platform
 * **September 4:** Abstract / reviewer registration deadline
 * **September 25:** Review deadline
 * **October 2:** Notification of decision
