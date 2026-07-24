@@ -10,14 +10,16 @@ CAMP[9] abstracts can be submitted for **talks, posters, or both**.
 ## 🗓️ Important Dates
 **Abstract Deadline:** **September 4, 2026** by 11:59 PM PST. 
 
-https://openreview.net/group?id=CAMP/2026/Workshop
+[Submission Portal](https://openreview.net/group?id=CAMP/2026/Workshop)
 
 **Reviewer Registration:** **September 4, 2026** by 11:59 PM PST. We encourage PhD students, postdocs, industry folks, and faculty alike to sign up to review!
 
-https://forms.gle/oC8ZRWEC1SRANrXN9
+[Reviewer sign-up form](https://forms.gle/oC8ZRWEC1SRANrXN9)
 
 ## ✍️ Submission Details
 Abstracts conform to the Human Sentence Processing Conference standard. Abstracts are limited to 1 page of text, with an optional second page containing figures, references, and example materials. Abstracts must be submitted in pdf format on letter page size (8.5" x 11") with 11pt Arial font and 1 inch margins. While the submission should be anonymous, in-text references and citations do not need to be anonymized.
+
+Dr. Mayaan Keshev has written a beautiful [document](https://docs.google.com/document/d/1J_amu8bT3tIcPGh_zY_M8nLq3FSRK8KNa2pZKlc0rfs/) with more details on what goes in to a great submission.
 
 Submissions reporting in-progress studies are invited, provided that:
 * Data collection has commenced in some form and is expected to be completed (including data analysis) by the date of presentation; 
