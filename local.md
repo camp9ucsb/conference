@@ -63,15 +63,15 @@ Courtyard by Marriot Goleta,
 Best Western South Coast Inn 
 
 ## 🌯 ☕ Food and Drink
-Fan favorites include...
+Some of our favorites include...
 
 Campus: Coral Tree Café, Buchannan coffee cart, the Arbor
 
-In Isla Vista: Freebirds, Poke Theory SB, Woodstock's, Cajé (Coffee), [Elubia's Kitchen (South coast's best tamales)](https://www.santabarbaratamales.com/)
+In Isla Vista: Freebirds (burritos), Poke Theory SB (poke bowls), Woodstock's (pizza), Cajé (coffee), Elubia's Kitchen (South Coast's best tamales)
 
-In/near Camino Real Marketplace: Lilly's Tacos, Jane at the Marketplace, Janine's, Cajun Kitchen, SB Fish Market-Goleta, Phamous Cafe, Draughtsmen Aleworks, Rooftop Bar (at Hilton Garden Inn), Finney's Crafthouse, Rory's Ice Cream, Slodoco Donuts (open 24 hours!)
+In/near Camino Real Marketplace: Lilly's Tacos (Mexican street tacos), Jane at the Marketplace (bistro), SB Fish Market-Goleta (all kinds of fresh fish), Phamous Cafe (pho and vermicelli bowls), Draughtsmen Aleworks (beer garden), Rooftop Bar at Hilton Garden Inn (beer garden), Finney's Crafthouse (brewpub), Slodoco Donuts (donuts and board games, open 24 hours), Dune (coffee)
 
-Elsewhere in Goleta: Nikka Ramen, Masala Spice (can accomodate large reservations), CAYA, Jonesy's Fried Chicken, Cajun Kitchen (only open breakfast/lunch), Noodle City, Santa Barbara Cider Company, Old Town Coffee, Oat Bakery 
+Elsewhere in Goleta: Nikka Ramen (ramen), Masala Spice (Indian, can accomodate large reservations), CAYA (bistro / cocktails), Jonesy's Fried Chicken (Nashville style chicken), Santa Barbara Cider Company (beer garden), Old Town Coffee (coffee)
 
 ## 🏖️ Things to Do
 Tidepooling / plover watching at Coal Oil Point beach or Campus Point beach
