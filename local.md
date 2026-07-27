@@ -54,7 +54,8 @@ Fares are $2.50 by cash or card. You can get at 10 ride pass at the student book
 See https://sbmtd.gov/ for more info.
 
 ## 🏨 Accomodations
-We'll do our best to offer couch surfing spots. More info to come.
+Couch surfing (students only please):
+[Express interest here](https://forms.gle/5X9v84sM3itiXmJ49)
 
 Hotels:
 The Club at UCSB,
@@ -65,11 +66,11 @@ Best Western South Coast Inn
 ## 🌯 ☕ Food and Drink
 Some of our favorites include...
 
-Campus: Coral Tree Café, Buchannan coffee cart, the Arbor
+Campus: Coral Tree Café (coffee and rice/salad bowls), Buchanan coffee cart (bougie coffee drinks), the Arbor (convenience store and coffee window)
 
 In Isla Vista: Freebirds (burritos), Poke Theory SB (poke bowls), Woodstock's (pizza), Cajé (coffee), Elubia's Kitchen (South Coast's best tamales)
 
-In/near Camino Real Marketplace: Lilly's Tacos (Mexican street tacos), Jane at the Marketplace (bistro), SB Fish Market-Goleta (all kinds of fresh fish), Phamous Cafe (pho and vermicelli bowls), Draughtsmen Aleworks (beer garden), Rooftop Bar at Hilton Garden Inn (beer garden), Finney's Crafthouse (brewpub), Slodoco Donuts (donuts and board games, open 24 hours), Dune (coffee)
+In/near Camino Real Marketplace: Lilly's Tacos (Mexican street tacos), Jane at the Marketplace (bistro), SB Fish Market-Goleta (anything fresh fish), Phamous Cafe (pho and vermicelli bowls), Draughtsmen Aleworks (beer garden), Rooftop Bar at Hilton Garden Inn (beer garden), Finney's Crafthouse (brewpub), Slodoco Donuts (donuts and board games, open 24 hours), Dune (coffee)
 
 Elsewhere in Goleta: Nikka Ramen (ramen), Masala Spice (Indian, can accomodate large reservations), CAYA (bistro / cocktails), Jonesy's Fried Chicken (Nashville style chicken), Santa Barbara Cider Company (beer garden), Old Town Coffee (coffee)
 
