@@ -66,7 +66,7 @@ Best Western South Coast Inn
 ## 🌯 ☕ Food and Drink
 Some of our favorites include...
 
-Campus: Coral Tree Café (coffee and rice/salad bowls), Buchanan coffee cart (bougie coffee drinks), the Arbor (convenience store and coffee window)
+Campus: Coral Tree Café (coffee and rice/salad bowls), Buchanan coffee cart (bougie coffee drinks), the Arbor (convenience store and coffee window), the Corner Store (pick and mix candy)
 
 In Isla Vista: Freebirds (burritos), Poke Theory SB (poke bowls), Woodstock's (pizza), Cajé (coffee), Elubia's Kitchen (South Coast's best tamales)
 
