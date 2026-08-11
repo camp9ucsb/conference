@@ -8,7 +8,7 @@ order: 3
 (Schedule may be subject to change!)
 
 ## Friday, Nov 6
-1:00 -- Coffee, snacks, catch-up!
+1:00 - 1:30 -☕- Coffee, snacks, catch-up!
 
 1:30 - 2:30 -🏺- Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/)
 
