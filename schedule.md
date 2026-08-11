@@ -28,7 +28,7 @@ order: 3
 ||9:40 - 10:30|2 Talks |
 |☕🖼️|10:30 - 11:45|Coffee and poster session 1|
 ||11:45 - 12:35|2 Talks|
-|🥪|12:35 - 1:40|Lunch| 
+|🥪🍎|12:35 - 1:40|Lunch| 
 ||1:40 - 2:30 |2 Talks|
 |☕🖼️ |2:30 - 3:45|Coffee and poster session 2|
 ||3:45 - 5:00|3 Talks|
@@ -41,4 +41,4 @@ order: 3
 |☕|10:40 - 11:00|Coffee break|
 ||11:00 - 11:50 2 Talks|
 |👋|11:50 - 12:00|Closing remarks|
-|🌮|12:20 - 2:00 Picnic lunch at Goleta Beach|
+|🏖️🌮|12:20 - 2:00 |Picnic lunch at Goleta Beach|
