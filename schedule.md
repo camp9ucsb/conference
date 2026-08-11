@@ -16,11 +16,11 @@ order: 3
 
 3:30 - 5:00 -- Panel: A primer on field research
 
+[Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns)
+
 [Dr. Jessica Ivani, UCSB](https://www.linguistics.ucsb.edu/people/jessica-k-ivani)
 
 [Dr. Maziar Toosarvandani, UCSC](https://people.ucsc.edu/~mtoosarv/)
-
-[Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns)
 
 [James Yee, MA, UCSB](https://www.linguistics.ucsb.edu/people/james-yee)
   
