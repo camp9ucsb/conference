@@ -11,7 +11,6 @@ order: 3
 
 | |  Time  | Event |
 | - | -------- | -------- |
-
 | ☕ | 1:00 - 1:30 | Coffee, snacks, catch-up! |
 | 🏺 | 1:30 - 2:30 | Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/) |
 | 🐋 | 2:30 - 3:30 | Talk by [Dr. Gašper Beguš, UCB](https://www.gasperbegus.com/) | 
@@ -26,7 +25,6 @@ order: 3
 
 | |  Time  | Event |
 | - | -------- | -------- |
-
 | ☕🥐 | 9:00 | Coffee and breakfast |
 | 👋 | 9:30 | Welcome! |
 | | 9:40 - 10:30 | 2 Talks |
@@ -41,7 +39,6 @@ order: 3
 
 | |  Time  | Event |
 | - | -------- | -------- |
-
 | ☕🥐 | 9:00 | Coffee and breakfast |
 | | 9:20 - 10:35 | 3 Talks |
 | ☕ | 10:40 - 11:00 | Coffee break |
