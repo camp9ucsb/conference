@@ -21,23 +21,17 @@ order: 3
   
 
 ## Saturday, Nov 7
-9:00 ☕🥐 Coffee and breakfast
-
-9:30 👋 Welcome!
-
-9:40 - 10:30 -- 2 Talks 
-
-10:30 - 11:45 ☕🖼️ Coffee and poster session 1
-
-11:45 - 12:35 -- 2 Talks
-
-12:35 - 1:40 🥪 Lunch 
-
-1:40 - 2:30 -- 2 Talks
-
-2:30 - 3:45 ☕🖼️ Coffee and poster session 2
-
-3:45 - 5:00 -- 3 Talks
+| |  Time  | Event |
+| - | -------- | -------- |
+|☕🥐 |9:00 | Coffee and breakfast|
+|👋|9:30 | Welcome!|
+||9:40 - 10:30 | 2 Talks |
+|☕🖼️|10:30 - 11:45 |Coffee and poster session 1|
+||11:45 - 12:35 | 2 Talks|
+|🥪|12:35 - 1:40 |Lunch| 
+||1:40 - 2:30 |2 Talks|
+|☕🖼️ |2:30 - 3:45|Coffee and poster session 2|
+||3:45 - 5:00 |3 Talks|
 
 ## Sunday, Nov 8
 9:00 ☕🥐 Coffee and breakfast
