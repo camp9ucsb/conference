@@ -37,8 +37,8 @@ order: 3
 | |  Time  | Event |
 | - | -------- | -------- |
 |☕🥐|9:00 |Coffee and breakfast|
-||9:20 - 10:35|3 Talks |
+||9:20 - 10:35|3 Talks|
 |☕|10:40 - 11:00|Coffee break|
-||11:00 - 11:50 2 Talks|
+||11:00 - 11:50|2 Talks|
 |👋|11:50 - 12:00|Closing remarks|
 |🏖️🌮|12:20 - 2:00 |Picnic lunch at Goleta Beach|
