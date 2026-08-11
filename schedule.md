@@ -14,7 +14,7 @@ order: 3
 
 2:30 - 3:30 🐋 Talk by [Dr. Gašper Beguš, UCB](https://www.gasperbegus.com/)
 
-3:30 - 5:00 🏞️ Panel: A primer on field research
+3:30 - 5:00 🏞️ Panel: A primer on community-centered field research
 
 * [Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns)
 
