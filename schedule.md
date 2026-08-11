@@ -10,11 +10,19 @@ order: 3
 ## Friday, Nov 6
 1:00 -- Coffee, snacks, catch-up!
 
-2:00 -- 5:00
+1:30 - 2:30 --  Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/)
 
-  Two invited talks
-  
-  Panel: Advice from field linguists
+2:30 - 3:30 -- Talk by [Dr. Gasper Begus, UCB](https://www.gasperbegus.com/)
+
+3:30 - 5:00 -- Panel: A primer on field research
+
+[Dr. Jessica Ivani, UCSB](https://www.linguistics.ucsb.edu/people/jessica-k-ivani)
+
+[Dr. Maziar Toosarvandani, UCSC](https://people.ucsc.edu/~mtoosarv/)
+
+[Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns)
+
+[James Yee, MA, UCSB](https://www.linguistics.ucsb.edu/people/james-yee)
   
 
 ## Saturday, Nov 7
