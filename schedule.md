@@ -12,7 +12,7 @@ order: 3
 
 1:30 - 2:30 🏺 Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/)
 
-2:30 - 3:30 🐋 Talk by [Dr. Gasper Begus, UCB](https://www.gasperbegus.com/)
+2:30 - 3:30 🐋 Talk by [Dr. Gašper Beguš, UCB](https://www.gasperbegus.com/)
 
 3:30 - 5:00 🏞️ Panel: A primer on field research
 
