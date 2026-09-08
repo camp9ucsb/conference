@@ -54,11 +54,13 @@ Fares are $2.50 by cash or card. You can get at 10 ride pass at the student book
 See https://sbmtd.gov/ for more info.
 
 ## 🏨 Accomodations
-Couch surfing (students and postdocs only please):
+Couch surfing (students and postdocs):
 [Express interest here](https://forms.gle/5X9v84sM3itiXmJ49)
 
 Nearby Hotels:
-(probably sold out, sorry, there's a soccer game: The Club at UCSB, Hilton Garden Inn Goleta, Courtyard by Marriot Goleta)
+(The Big West soccer finals are this weekend so many hotels are sold out, sorry)
+
+The Club at UCSB, Hilton Garden Inn Goleta, Courtyard by Marriot Goleta
 Best Western South Coast Inn, 
 Motel 6 Goleta, 
 The Leta
