@@ -58,12 +58,15 @@ Couch surfing (students and postdocs):
 [Express interest here](https://forms.gle/5X9v84sM3itiXmJ49)
 
 Nearby Hotels:
-(The Big West soccer finals are this weekend so many hotels are sold out, sorry)
+(The Big West soccer finals are this weekend, so the very closest hotels will be sold out, sorry)
 
-The Club at UCSB, Hilton Garden Inn Goleta, Courtyard by Marriot Goleta
-Best Western South Coast Inn, 
-Motel 6 Goleta, 
-The Leta
+In Goleta, near bus routes to campus: The Club at UCSB, Hilton Garden Inn Goleta, Courtyard by Marriot Goleta
+
+In Goleta, will need to drive / rideshare to campus: Best Western South Coast Inn, Motel 6 Goleta, The Leta
+
+In SB, near 24x bus route to campus: Bath Street Inn, Courtyard by Marriott Downtown, Orange Tree inn, Simpson House Inn
+
+
 
 ## 🌯 ☕ Food and Drink
 Some of our favorites include...
@@ -74,7 +77,7 @@ In Isla Vista: Freebirds (burritos), Poke Theory SB (poke bowls), Woodstock's (p
 
 In/near Camino Real Marketplace: Lilly's Tacos (Mexican street tacos), Jane at the Marketplace (bistro), SB Fish Market-Goleta (anything fresh fish), Phamous Cafe (pho and vermicelli bowls), Draughtsmen Aleworks (beer garden), Rooftop Bar at Hilton Garden Inn (beer garden), Finney's Crafthouse (brewpub), Slodoco Donuts (donuts and board games, open 24 hours), Dune (coffee)
 
-Elsewhere in Goleta: Nikka Ramen (ramen), Masala Spice (Indian, can accomodate large reservations), CAYA (bistro / cocktails), Jonesy's Fried Chicken (Nashville style chicken), Santa Barbara Cider Company (beer garden), Old Town Coffee (coffee)
+Elsewhere in Goleta: Nikka Ramen (ramen), Masala Spice (Indian, can accomodate large reservations), CAYA (bistro / cocktails), Santa Barbara Cider Company (beer garden), Old Town Coffee (coffee)
 
 ## 🏖️ Things to Do
 Tidepooling / plover watching at Coal Oil Point beach or Campus Point beach
