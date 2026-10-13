@@ -23,6 +23,8 @@ CAMP[9] abstracts can be submitted for **talks, posters, or both**.
 * We encourage PhD students, postdocs, industry folks, and faculty alike to sign up to review! (Please make sure you have an Open Review account as well!)
 * [Reviewer sign-up form](https://forms.gle/oC8ZRWEC1SRANrXN9)
 
+**Attendee Registration:** **October 28, 2026** by 11:59 PM PST.
+* [Please register here](https://forms.gle/zVwXrwENFXfNWpXS6)
 
 ## ✍️ Submission Details
 Abstracts conform to the Human Sentence Processing Conference standard. Abstracts are limited to 1 page of text, with an optional second page containing figures, references, and example materials. Abstracts must be submitted in pdf format on letter page size (8.5" x 11") with 11pt Arial font and 1 inch margins. While the submission should be anonymous, in-text references and citations do not need to be anonymized.
