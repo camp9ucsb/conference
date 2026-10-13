@@ -29,11 +29,11 @@ By conference policy, registration is free and everyone is welcome to attend but
 ## 🗓️ Important Dates
 All deadlines are 11:59 PM PST.
 
-* **August 28:** Open Review profile creation for authors/reviewers new to the platform
-* **September 4:** Abstract / reviewer registration deadline
-* **September 25:** Review deadline
-* **October 2:** Notification of decision
-* **October 28:** [Registration deadline [(register here)](https://forms.gle/zVwXrwENFXfNWpXS6)
+* **✅August 28:** Open Review profile creation for authors/reviewers new to the platform
+* **✅September 4:** Abstract / reviewer registration deadline
+* **✅September 25:** Review deadline
+* **✅October 2:** Notification of decision
+* **October 28:** Registration deadline [(register here)](https://forms.gle/zVwXrwENFXfNWpXS6)
 * **November 6-8:** CAMP\[9\]!
 
 ## 📧 Join the Mailing List!
