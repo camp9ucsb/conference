@@ -11,14 +11,14 @@ order: 3
 
 | |  Time  | Event | Title |
 | - | -------- | -------- |-----|
-| ☕ | 1:00 - 1:30 | Coffee, snacks, catch-up! |-----|
-| 🏺 | 1:30 - 2:30 | Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/) |-----|
-| 🐋 | 2:30 - 3:30 | Talk by [Dr. Gašper Beguš, UCB](https://www.gasperbegus.com/) | -----|
-| 🏞️ | 3:30 - 5:00 | Panel: A primer on community-centered field research |-----|
-| | | * [Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns) |-----|
-| | | * [Dr. Jessica Ivani, UCSB](https://www.linguistics.ucsb.edu/people/jessica-k-ivani) |-----|
-| | | * [Dr. Maziar Toosarvandani, UCSC](https://people.ucsc.edu/~mtoosarv/) |-----|
-| | | * [James Yee, MA, UCSB](https://www.linguistics.ucsb.edu/people/james-yee) |-----|
+| ☕ | 1:00 - 1:30 | Coffee, snacks, catch-up! | |
+| 🏺 | 1:30 - 2:30 | Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/) | Sing, Muse, of Small Data: Computational Approaches to Homer’s Odyssey |
+| 🐋 | 2:30 - 3:30 | Talk by [Dr. Gašper Beguš, UCB](https://www.gasperbegus.com/) | Language as informative imagination |
+| 🏞️ | 3:30 - 5:00 | Invited Panel | A primer on community-centered field research|
+| | | * [Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns) | |
+| | | * [Dr. Jessica Ivani, UCSB](https://www.linguistics.ucsb.edu/people/jessica-k-ivani) | |
+| | | * [Dr. Maziar Toosarvandani, UCSC](https://people.ucsc.edu/~mtoosarv/) | |
+| | | * [James Yee, MA, UCSB](https://www.linguistics.ucsb.edu/people/james-yee) | |
   
 
 ## Saturday, Nov 7
@@ -37,7 +37,7 @@ order: 3
 
 ## Sunday, Nov 8
 
-| |  Time  | Event |
+| |  Time  | Event | Title |
 | - | -------- | -------- | -----|
 | ☕🥐 | 9:00 | Coffee and breakfast |-----|
 | | 9:20 - 10:35 | 3 Talks |-----|
