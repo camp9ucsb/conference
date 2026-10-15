@@ -12,8 +12,8 @@ order: 3
 | |  Time  | Event | Title (link to abstract) |
 | - | -------- | -------- |-----|
 | ☕ | 1:00 - 1:30 | Coffee, snacks, catch-up! | |
-| 🏺 | 1:30 - 2:30 | Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/) |[Sing, Muse, of Small Data: Computational Approaches to Homer’s Odyssey](Lamar_CAMP9.pdf) |
-| 🐋 | 2:30 - 3:30 | Talk by [Dr. Gašper Beguš, UCB](Begus_CAMP9.pdf) | Language as informative imagination |
+| 🏺 | 1:30 - 2:30 | Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/) |[Sing, Muse, of Small Data: Computational Approaches to Homer’s Odyssey](assets/Lamar_CAMP9.pdf) |
+| 🐋 | 2:30 - 3:30 | Talk by [Dr. Gašper Beguš, UCB](https://www.gasperbegus.com/) | [Language as informative imagination](assets/Begus_CAMP9.pdf) |
 | 🏞️ | 3:30 - 5:00 | Invited Panel | A primer on community-centered field research|
 | | | * [Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns) | |
 | | | * [Dr. Jessica Ivani, UCSB](https://www.linguistics.ucsb.edu/people/jessica-k-ivani) | |
