@@ -9,6 +9,8 @@ order: 3
 
 ## Friday, Nov 6
 
+[Abstracts](https://docs.google.com/document/d/1HKPBxP4jrlv8knhivw1czmJZ3yljLPDxjYI_7GEdXeI/edit?tab=t.hxpbazefbdcv)
+
 | |  Time  | Event | Title |
 | - | -------- | -------- |-----|
 | ☕ | 1:00 - 1:30 | Coffee, snacks, catch-up! | |
