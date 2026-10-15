@@ -9,12 +9,10 @@ order: 3
 
 ## Friday, Nov 6
 
-[Abstracts](https://docs.google.com/document/d/1HKPBxP4jrlv8knhivw1czmJZ3yljLPDxjYI_7GEdXeI/edit?tab=t.hxpbazefbdcv)
-
-| |  Time  | Event | Title |
+| |  Time  | Event | Title (link to abstract) |
 | - | -------- | -------- |-----|
 | ☕ | 1:00 - 1:30 | Coffee, snacks, catch-up! | |
-| 🏺 | 1:30 - 2:30 | Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/) | Sing, Muse, of Small Data: Computational Approaches to Homer’s Odyssey |
+| 🏺 | 1:30 - 2:30 | Talk by [Dr. Annie Lamar, UCSB](https://www.classics.ucsb.edu/faculty/annie-lamar/) |[Sing, Muse, of Small Data: Computational Approaches to Homer’s Odyssey](https://docs.google.com/document/d/1HKPBxP4jrlv8knhivw1czmJZ3yljLPDxjYI_7GEdXeI/) |
 | 🐋 | 2:30 - 3:30 | Talk by [Dr. Gašper Beguš, UCB](https://www.gasperbegus.com/) | Language as informative imagination |
 | 🏞️ | 3:30 - 5:00 | Invited Panel | A primer on community-centered field research|
 | | | * [Dr. Lina Hou, UCSB](https://sites.google.com/view/linasigns) | |
