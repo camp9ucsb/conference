@@ -28,7 +28,7 @@ order: 3
 | ☕🥐 | 9:00 | Coffee and breakfast | ------|
 | 👋 | 9:30 | Welcome! | ----- |
 | | 9:40 - 10:05 | Yumeng Shen \& Sarah C. Creel | Using ASR to Scale Talker N in L2 Speech Research |
-| | 10:05 - 10:30 | Shawn N. Cummings (UCI), Sreyoshi Basu (University of Rochester), Chigusa Kurumada (University of Rochester) \& Xin Xie (UCI) | Toward Distributional Analyses of Accented Speech Production:  The ADAPT Corpus and a Fricative Voicing Case Study |
+| | 10:05 - 10:30 | Shawn N. Cummings, Sreyoshi Basu, Chigusa Kurumada \& Xin Xie | Toward Distributional Analyses of Accented Speech Production:  The ADAPT Corpus and a Fricative Voicing Case Study |
 | ☕🖼️ | 10:30 - 11:45 | Coffee and poster session 1 |-----|
 | | 11:45 - 12:10 | JK Subramony  \& Elsi Kaiser | Non-compositionality and asymmetry in the mental lexicon: The view from Avatime |
 | | 12:10 - 12:35 | Noemy Condori Arias \& Sherry Chien | Prosody Beyond Morphology: Encoding Topic in South Bolivian Quechua |
@@ -45,9 +45,12 @@ order: 3
 | |  Time  | Event/Speaker | Title |
 | - | -------- | -------- | -----|
 | ☕🥐 | 9:00 | Coffee and breakfast |-----|
-| | 9:20 - 10:35 | 3 Talks |-----|
+| | 9:20 - 9:45 | Will Chih-Chao Chang, Srikantan Nagarajan, John Houde, Connor Mayer \& Gregory Hickok | On the Nature of Planning Targets for Casual and Clear Speech |
+| | 9:45 - 10:10 | Zoe Ka Pui Cheung \& Zoe Liberman | Judging by How You Speak: The Role of Accent Strength in Children’s Evaluations of Speakers |
+| | 10:10 - 10:35 | Giselle Ellen Ferrer, Kaitlin Lee, Shawn N. Cummings \& Xin Xie | How perceptual is lexically guided perceptual learning? |
 | ☕ | 10:40 - 11:00 | Coffee break |-----|
-| | 11:00 - 11:50 | 2 Talks |-----|
+| | 11:00 - 11:25 | Linh Pham, Elsi Kaiser \& Zuzanna Fuchs | Effect of Predictability on similarity-based interference in Vietnamese Wh-Constructions |
+| | 11:25 - 11:50 | Victoria Chang \& Alexander LaTourrette | No Evidence for Cross-situational Syntactic Bootstrapping in Adults |
 | 👋 | 11:50 - 12:00 | Closing remarks |-----|
-| 🏖️🌮 | 12:20 - 2:00 | Picnic lunch at Goleta Beach |-----|
+| 🏖️🌮 | 12:20 - 2:00 | Picnic lunch at Goleta Beach Area C |-----|
 
