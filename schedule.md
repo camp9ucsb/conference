@@ -54,3 +54,43 @@ order: 3
 | 👋 | 11:50 - 12:00 | Closing remarks |-----|
 | 🏖️🌮 | 12:20 - 2:00 | Picnic lunch at Goleta Beach Area C |-----|
 
+
+## Poster Session 1 (Sat, 10:30 - 11:45)
+
+| Number | Speaker | Title|
+|--- | ------- | --------------------|
+|	1	|	Jacob Bower, Yuting Gu & Xin Xie  	|	Lexical guidance in the perception and adaptation of one's own accent: the case of Mandarin-accented /θ/-/s/	|
+|	2	|	Anna Runova 	|	Effects of sequential visual working memory load on lexical access	|
+|	3	|	Tovah Irwin & Idan Asher Blank  	|	Modeling L1 Influence on L2 Processing Using Multilingual Language Models	|
+|	4	|	Emma Yu, Anushka Laha, Natalie Kwan & Brandon Woo  	|	Children make inferences about closeness and relationships from others’ use of names	|
+|	5	|	Adam Leif  	|	Forming Syntactic Categories From String-Distributional Data	|
+|	6	|	Bianca Damore  & Bethany B. Clements 	|	Did You Actually Hear That Word?: The Influence of Context on Language Prediction and Memory	|
+|	7	|	Haley Hsu & Elsi Kaiser 	|	Um, Actually: Real-time processing of erroneous input containing multiple errors	|
+|	8	|	Christian Muxica & Jesse Harris  	|	Illusory contrast in the comprehension of focus	|
+|	9	|	Muxuan He & Elsi Kaiser 	|	Prediction in reading: the interplay between pre-activation and uncertainty cost in English	|
+|	10	|	Evan Hochstein & Jesse Harris  	|	Context-dependence and cue–feature mappings in animate pronoun resolution	|
+|	11	|	Yuting Gu, Chigusa Kurumada & Xin Xie  	|	What tunes accent processing? Dissociating type and channel of input in Mandarin-English heritage bilinguals	|
+|	12	|	Landi Jiang & Alexis Wellwood 	|	Context effects in the interpretation of more furniture	|
+|	13	|	Karina Sheifer  	|	Aligning Syntactic Structure and Prosodic Boundaries in Sakha	|
+|	14	|	William Matchin	|	Rational adaptation does not explain agrammatic speech in aphasia	|
+|	15	|	Cedar Elwin Brown & Laurel Brehm  	|	“That was fun! I want to go again!” Orientations to ‘fun’ in linguistic research design	|
+
+## Poster Session 2 (Sat, 2:30 - 3:45)
+
+| Number | Speaker | Title|
+|--- | ------- | --------------------|
+|	1	|	Emily Leach & Micha Elsner	|	Conceptual category knowledge is not free: Evidence from novel word extension in Large Language Models	|
+|	3	|	Ya-Ning Wu, Xin Xie & Chigusa Kurumada 	|	Front-loading lexical stress: Positional asymmetries in American English and Mandarin-English speech	|
+|	4	|	Jeremy Inthisane, Ma Angela Edith Montiel, Shivani Jitendra Mudhol, Charlotte Burnham & Ariel Shuk Ling Chan  	|	A Friendly Chat: ERP Evidence of Unconscious Translation in English-French Bilinguals of Varying L2 Proficiencies	|
+|	4	|	Zhenyang Tang, Yanting Li, Gregory Scontras & Richard Futrell  	|	The effect of predictability on the naturalness rating of code-switching	|
+|	5	|	Bethany B. Clements, Lu Liu & Laurel Brehm  	|	Memory for Contrastive-Pitch Accenting in Cantonese-English Bilinguals	|
+|	6	|	Aditi Anand & Zed Sehyr 	|	Listening Fatigue and Academic Engagement in Deaf and Hard-of-Hearing Students in University Classrooms	|
+|	7	|	Kaitlin Lee, Will Chih-Chao Chang, Connor Mayer & Shiva Upadhye 	|	Disentangling Listener-Oriented and Production-Internal Accounts of Phonetic Variation in Conversational Speech: The Role of Lexical Competition and Word Predictability	|
+|	8	|	Jordan Crowley  	|	Psychological Reality of Korean Vowel Space: Evidence from Ongoing Vowel Mergers	|
+|	9	|	Yihan Zhao, Julie Bannon & Fernanda Ferreira  	|	Memory Grouping as a Constraint on Prosodic Phrasing:  Evidence from Mandarin Serial Recall	|
+|	10	|	Thomas Austin McGee, Justin A. O. Chai & Idan Asher Blank  	|	Syntactic Disambiguation Based on Visual Context in Vision-Language Models	|
+|	11	|	Yue Chen & Elsi Kaiser 	|	Same Cues, Different Minds: Individual Variation in Mandarin Reflexive Resolution	|
+|	12	|	Chui-Yin NG 	|	Effects of object givenness and contrastiveness on the preferences for the object-fronting SOV construction in Cantonese	|
+|	13	|	Rene Boye, Simon Todd & Laurel Brehm  	|	Reading Comprehension of Health Insurance Shows A Dissociation between Measures of Understanding and Reading Performance	|
+|	14	|	Emma Kealey & Zuzanna Fuchs 	|	The role of noun transparency and cues to grammatical gender during word recognition	|
+|	15	|	Büşra Marşan & Robert D. Hawkins 	|	Untangling Turkish Evidentiality: Sure, but When?	|
