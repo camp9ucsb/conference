@@ -5,6 +5,8 @@ permalink: /schedule/
 order: 3
 ---
 
+All events will be held in the McCune Conference room (6020 [Humanities and Social Sciences Building](https://map.ucsb.edu/?id=1982#!m/620756?share)).
+
 (Schedule may be subject to change!)
 
 ## Friday, Nov 6
