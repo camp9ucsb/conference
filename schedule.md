@@ -47,9 +47,9 @@ All events will be held in the McCune Conference room (6020 [Humanities and Soci
 | |  Time  | Event/Speaker | Title |
 | - | -------- | -------- | -----|
 | ☕🥐 | 9:00 | Coffee and breakfast |-----|
-| | 9:20 - 9:45 | Yumeng Shen & Sarah C. Creel | Using ASR to Scale Talker N in L2 Speech Research |
-| | 9:45 - 10:10 | Zoe Ka Pui Cheung & Zoe Liberman | Judging by How You Speak: The Role of Accent Strength in Children’s Evaluations of Speakers |
-| | 10:10 - 10:35 | Giselle Ellen Ferrer, Kaitlin Lee, Shawn N. Cummings & Xin Xie | How perceptual is lexically guided perceptual learning? |
+| | 9:20 - 9:45 | Zoe Ka Pui Cheung & Zoe Liberman | Judging by How You Speak: The Role of Accent Strength in Children’s Evaluations of Speakers |
+| | 9:45 - 10:10 | Giselle Ellen Ferrer, Kaitlin Lee, Shawn N. Cummings & Xin Xie | How perceptual is lexically guided perceptual learning? |
+| | 10:10 - 10:35 | Yumeng Shen & Sarah C. Creel | Using ASR to Scale Talker N in L2 Speech Research |
 | ☕ | 10:40 - 11:00 | Coffee break |-----|
 | | 11:00 - 11:25 | Metehan Oğuz & Elsi Kaiser | Processing non-local reflexives: Delayed semantic role cues in Turkish anaphor resolution |
 | | 11:25 - 11:50 | Victoria Chang & Alexander LaTourrette | No Evidence for Cross-situational Syntactic Bootstrapping in Adults |
