@@ -88,11 +88,10 @@ All events will be held in the McCune Conference room (6020 [Humanities and Soci
 |	5	|	Bethany B. Clements, Lu Liu & Laurel Brehm  	|	Memory for Contrastive-Pitch Accenting in Cantonese-English Bilinguals	|
 |	6	|	Aditi Anand & Zed Sehyr 	|	Listening Fatigue and Academic Engagement in Deaf and Hard-of-Hearing Students in University Classrooms	|
 |	7	|	Kaitlin Lee, Will Chih-Chao Chang, Connor Mayer & Shiva Upadhye 	|	Disentangling Listener-Oriented and Production-Internal Accounts of Phonetic Variation in Conversational Speech: The Role of Lexical Competition and Word Predictability	|
-|	8	|	Jordan Crowley  	|	Psychological Reality of Korean Vowel Space: Evidence from Ongoing Vowel Mergers	|
-|	9	|	Yihan Zhao, Julie Bannon & Fernanda Ferreira  	|	Memory Grouping as a Constraint on Prosodic Phrasing:  Evidence from Mandarin Serial Recall	|
-|	10	|	Thomas Austin McGee, Justin A. O. Chai & Idan Asher Blank  	|	Syntactic Disambiguation Based on Visual Context in Vision-Language Models	|
-|	11	|	Yue Chen & Elsi Kaiser 	|	Same Cues, Different Minds: Individual Variation in Mandarin Reflexive Resolution	|
-|	12	|	Chui-Yin NG 	|	Effects of object givenness and contrastiveness on the preferences for the object-fronting SOV construction in Cantonese	|
-|	13	|	Rene Boye, Simon Todd & Laurel Brehm  	|	Reading Comprehension of Health Insurance Shows A Dissociation between Measures of Understanding and Reading Performance	|
-|	14	|	Emma Kealey & Zuzanna Fuchs 	|	The role of noun transparency and cues to grammatical gender during word recognition	|
-|	15	|	Büşra Marşan & Robert D. Hawkins 	|	Untangling Turkish Evidentiality: Sure, but When?	|
+|	8	|	Yihan Zhao, Julie Bannon & Fernanda Ferreira  	|	Memory Grouping as a Constraint on Prosodic Phrasing:  Evidence from Mandarin Serial Recall	|
+|	9	|	Thomas Austin McGee, Justin A. O. Chai & Idan Asher Blank  	|	Syntactic Disambiguation Based on Visual Context in Vision-Language Models	|
+|	10	|	Yue Chen & Elsi Kaiser 	|	Same Cues, Different Minds: Individual Variation in Mandarin Reflexive Resolution	|
+|	11	|	Chui-Yin NG 	|	Effects of object givenness and contrastiveness on the preferences for the object-fronting SOV construction in Cantonese	|
+|	12	|	Rene Boye, Simon Todd & Laurel Brehm  	|	Reading Comprehension of Health Insurance Shows A Dissociation between Measures of Understanding and Reading Performance	|
+|	13	|	Emma Kealey & Zuzanna Fuchs 	|	The role of noun transparency and cues to grammatical gender during word recognition	|
+|	14	|	Büşra Marşan & Robert D. Hawkins 	|	Untangling Turkish Evidentiality: Sure, but When?	|
