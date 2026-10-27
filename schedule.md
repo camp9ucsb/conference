@@ -54,7 +54,7 @@ All events will be held in the McCune Conference room (6020 [Humanities and Soci
 | | 11:00 - 11:25 | Metehan Oğuz & Elsi Kaiser | Processing non-local reflexives: Delayed semantic role cues in Turkish anaphor resolution |
 | | 11:25 - 11:50 | Victoria Chang & Alexander LaTourrette | No Evidence for Cross-situational Syntactic Bootstrapping in Adults |
 | 👋 | 11:50 - 12:00 | Closing remarks |-----|
-| 🏖️🌮 | 12:20 - 2:00 | Picnic lunch at Goleta Beach Area C |-----|
+| 🏖️🌮 | 12:20 - 2:00 | Picnic lunch at Goleta Beach Area B |-----|
 
 
 ## Poster Session 1 (Sat, 10:30 - 11:45)
