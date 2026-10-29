@@ -7,7 +7,7 @@ order: 3
 
 All events will be held in the McCune Conference room (6020 [Humanities and Social Sciences Building](https://map.ucsb.edu/?id=1982#!m/620756?share)).
 
-The conference will have CART captioning: contact lbrehm@ucsb.edu to get access to link.
+The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf)
 
 (Schedule may be subject to change!)
 
