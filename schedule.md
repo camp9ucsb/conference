@@ -71,13 +71,11 @@ The conference will have CART captioning: contact lbrehm@ucsb.edu to get access 
 |	6	|	Bianca Damore  & Bethany B. Clements 	|	Did You Actually Hear That Word?: The Influence of Context on Language Prediction and Memory	|
 |	7	|	Haley Hsu & Elsi Kaiser 	|	Um, Actually: Real-time processing of erroneous input containing multiple errors	|
 |	8	|	Christian Muxica & Jesse Harris  	|	Illusory contrast in the comprehension of focus	|
-|	9	|	Muxuan He & Elsi Kaiser 	|	Prediction in reading: the interplay between pre-activation and uncertainty cost in English	|
-|	10	|	Evan Hochstein & Jesse Harris  	|	Context-dependence and cue–feature mappings in animate pronoun resolution	|
-|	11	|	Yuting Gu, Chigusa Kurumada & Xin Xie  	|	What tunes accent processing? Dissociating type and channel of input in Mandarin-English heritage bilinguals	|
-|	12	|	Landi Jiang & Alexis Wellwood 	|	Context effects in the interpretation of more furniture	|
-|	13	|	Karina Sheifer  	|	Aligning Syntactic Structure and Prosodic Boundaries in Sakha	|
-|	14	|	William Matchin	|	Rational adaptation does not explain agrammatic speech in aphasia	|
-|	15	|	Cedar Elwin Brown & Laurel Brehm  	|	“That was fun! I want to go again!” Orientations to ‘fun’ in linguistic research design	|
+|	9	|	Evan Hochstein & Jesse Harris  	|	Context-dependence and cue–feature mappings in animate pronoun resolution	|
+|	10	|	Yuting Gu, Chigusa Kurumada & Xin Xie  	|	What tunes accent processing? Dissociating type and channel of input in Mandarin-English heritage bilinguals	|
+|	11	|	Landi Jiang & Alexis Wellwood 	|	Context effects in the interpretation of more furniture	|
+|	12	|	Karina Sheifer  	|	Aligning Syntactic Structure and Prosodic Boundaries in Sakha	|
+|	13	|	William Matchin	|	Rational adaptation does not explain agrammatic speech in aphasia	|
 
 ## Poster Session 2 (Sat, 2:30 - 3:45)
 
