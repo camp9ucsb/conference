@@ -68,7 +68,7 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 |	3	|	Tovah Irwin & Idan Asher Blank  	|	Modeling L1 Influence on L2 Processing Using Multilingual Language Models	|
 |	4	|	Emma Yu, Anushka Laha, Natalie Kwan & Brandon Woo  	|	Children make inferences about closeness and relationships from others’ use of names	|
 |	5	|	Adam Leif  	|	Forming Syntactic Categories From String-Distributional Data	|
-|	6	|	Bianca Damore  & Bethany B. Clements 	|	Did You Actually Hear That Word?: The Influence of Context on Language Prediction and Memory	|
+|	6	| Bianca Damore, Bethany B. Clements, Genesis N. Crane, Ella Riley, Lily Kim, Meng Yao & Si On Yoon |	Did You Actually Hear That Word?: The Influence of Context on Language Prediction and Memory	|
 |	7	|	Haley Hsu & Elsi Kaiser 	|	Um, Actually: Real-time processing of erroneous input containing multiple errors	|
 |	8	|	Christian Muxica & Jesse Harris  	|	Illusory contrast in the comprehension of focus	|
 |	9	|	Evan Hochstein & Jesse Harris  	|	Context-dependence and cue–feature mappings in animate pronoun resolution	|
