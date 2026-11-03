@@ -19,9 +19,9 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | |  |Session chair: Laurel Brehm | 
 | 🏺 | 1:30 - 2:30 | Invited Talk by [Annie Lamar](https://annieklamar.com/) | [Sing, Muse, of Small Data: Computational Approaches to Homer’s Odyssey](assets/Lamar_CAMP9.pdf) |
 | 🐋 | 2:30 - 3:30 | Invited Talk by [Gašper Beguš](https://www.gasperbegus.com/) | [Language as informative imagination](assets/Begus_CAMP9.pdf) |
-| 🏞️ | 3:30 - 5:00 | Invited Panel | A primer on community-centered field research|
+|🏞️ | 3:30 - 3:40 | Cedar Brown | Brief notes on past/present language diversity |
+|  | 3:40 - 5:00 | Invited Panel | A primer on community-centered field research|
 | |  |Moderator and session chair: Simon Todd | 
-| | | Cedar Brown | Brief notes on past/present language diversity |
 | | | * [Lina Hou](https://sites.google.com/view/linasigns) | |
 | | | * [Jessica Ivani](https://www.linguistics.ucsb.edu/people/jessica-k-ivani) | |
 | | | * [Maziar Toosarvandani](https://people.ucsc.edu/~mtoosarv/) | |
