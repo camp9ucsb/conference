@@ -31,6 +31,7 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | - | -------- | -------- | -----------|
 | ☕🥐 | 9:00 | Coffee and breakfast | ------|
 | 👋 | 9:30 | Welcome! | ----- |
+| | Session A| chair: Zoe Cheung ||
 | | 9:40 - 10:05 | Sophie Atkins, Tovah Irwin & Idan Asher Blank | [Decomposing Surprisal Into Semantic Features: A Case-Study Of Animacy](https://openreview.net/pdf/ca683f198e9992d75bb468ef98e96700ca2eabf1.pdf) |
 | | 10:05 - 10:30 | Esra Eldem Tunc, Zuzanna Fuchs & Elsi Kaiser | [The Role of Coherence Relations in Null and Overt Pronoun Interpretation in Turkish- English Heritage Speakers and Late Bilinguals](https://openreview.net/pdf/78059baa99052710c6d954bcf84e4bb1a1d9dea8.pdf) |
 | ☕🖼️ | 10:30 - 11:45 | Coffee and poster session 1 |-----|
