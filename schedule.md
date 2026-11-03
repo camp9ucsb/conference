@@ -15,10 +15,15 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 
 | |  Time  | Event/Speaker | Title (link to abstract) |
 | - | -------- | -------- |-----|
+| 🌟 | Special Session: Language Technology and Language Diversity | |
+
 | ☕ | 1:00 - 1:30 | Coffee, snacks, catch-up! | |
+| |  | Session chair: Laurel Brehm | |
 | 🏺 | 1:30 - 2:30 | Invited Talk by [Annie Lamar](https://annieklamar.com/) | [Sing, Muse, of Small Data: Computational Approaches to Homer’s Odyssey](assets/Lamar_CAMP9.pdf) |
 | 🐋 | 2:30 - 3:30 | Invited Talk by [Gašper Beguš](https://www.gasperbegus.com/) | [Language as informative imagination](assets/Begus_CAMP9.pdf) |
 | 🏞️ | 3:30 - 5:00 | Invited Panel | A primer on community-centered field research|
+| |  | Session chair: Simon Todd | |
+| |  |  Cedar Brown | Brief notes on past/present language diversity |
 | | | * [Lina Hou](https://sites.google.com/view/linasigns) | |
 | | | * [Jessica Ivani](https://www.linguistics.ucsb.edu/people/jessica-k-ivani) | |
 | | | * [Maziar Toosarvandani](https://people.ucsc.edu/~mtoosarv/) | |
@@ -30,7 +35,7 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | |  Time  | Event/Speaker | Title (link to abstracts) |
 | - | -------- | -------- | -----------|
 | ☕🥐 | 9:00 | Coffee and breakfast | ------|
-| 👋 | 9:30 | Welcome! | ----- |
+| 👋 | 9:30 | Laurel Brehm & Simon Todd | Welcome! |
 | A| Session chair: Zoe Cheung || |
 | A | 9:40 - 10:05 | Sophie Atkins, Tovah Irwin & Idan Asher Blank | [Decomposing Surprisal Into Semantic Features: A Case-Study Of Animacy](https://openreview.net/pdf/ca683f198e9992d75bb468ef98e96700ca2eabf1.pdf) |
 | | 10:05 - 10:30 | Esra Eldem Tunc, Zuzanna Fuchs & Elsi Kaiser | [The Role of Coherence Relations in Null and Overt Pronoun Interpretation in Turkish- English Heritage Speakers and Late Bilinguals](https://openreview.net/pdf/78059baa99052710c6d954bcf84e4bb1a1d9dea8.pdf) |
@@ -61,7 +66,7 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | F | Session chair: William Matchin || |
 | F | 11:00 - 11:25 | Metehan Oğuz & Elsi Kaiser | [Processing non-local reflexives: Delayed semantic role cues in Turkish anaphor resolution](https://openreview.net/pdf/879a7047125b1b8a26e8b372f12ebb8616c9035c.pdf) |
 | F | 11:25 - 11:50 | Victoria Chang & Alexander LaTourrette | [No Evidence for Cross-situational Syntactic Bootstrapping in Adults](https://openreview.net/pdf/271af08bad3e868ca552fb908af012383d64a382.pdf) |
-| 👋 | 11:50 - 12:00 | Closing remarks |-----|
+| 👋 | 11:50 - 12:00 | Laurel Brehm & Simon Todd | Closing remarks|
 | 🏖️🌮 | 12:20 - 2:00 | Picnic lunch at Goleta Beach Area B |-----|
 
 
