@@ -47,7 +47,7 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | C | 2:05 - 2:30 | Yaqing Tang & Laura Gwilliams | [OPM-MEG Provides Robust Time-Resolved Decoding of Naturalistic Speech](https://openreview.net/pdf/1d9d473a8bfa99ae8ec5caa9e229057e2bc9fdb8.pdf) |
 | ☕🖼️ | 2:30 - 3:45 | Coffee and poster session 2 |-----|
 | D || Session chair: Ariel Chan| |
-| | 3:45 - 4:10 | Shawn N. Cummings, Sreyoshi Basu, Chigusa Kurumada & Xin Xie | [Toward Distributional Analyses of Accented Speech Production: The ADAPT Corpus and a Fricative Voicing Case Study](https://openreview.net/pdf/ff43da2610233a1b90a41d16bd8893853fbdaeb4.pdf) |
+| D | 3:45 - 4:10 | Shawn N. Cummings, Sreyoshi Basu, Chigusa Kurumada & Xin Xie | [Toward Distributional Analyses of Accented Speech Production: The ADAPT Corpus and a Fricative Voicing Case Study](https://openreview.net/pdf/ff43da2610233a1b90a41d16bd8893853fbdaeb4.pdf) |
 | D | 4:10 - 4:35 | Will Chih-Chao Chang, Srikantan Nagarajan, John Houde, Connor Mayer & Gregory Hickok | [On the Nature of Planning Targets for Casual and Clear Speech](https://openreview.net/pdf/d6f6dfbb4145ffa4629fbc6afe89e6a3b67e9243.pdf) |
 | D | 4:35 - 5:00 | Sherry Chien & Argyro Katsika | [Dissociable Articulatory Strategies for Tone and Focus in Taiwan Mandarin](https://openreview.net/pdf/104f591c8021405ce71c910358af0a02cc39f010.pdf) |
 
