@@ -31,31 +31,36 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | - | -------- | -------- | -----------|
 | ☕🥐 | 9:00 | Coffee and breakfast | ------|
 | 👋 | 9:30 | Welcome! | ----- |
-| | Session A| chair: Zoe Cheung ||
-| | 9:40 - 10:05 | Sophie Atkins, Tovah Irwin & Idan Asher Blank | [Decomposing Surprisal Into Semantic Features: A Case-Study Of Animacy](https://openreview.net/pdf/ca683f198e9992d75bb468ef98e96700ca2eabf1.pdf) |
+| A| Session chair: Zoe Cheung || |
+| A | 9:40 - 10:05 | Sophie Atkins, Tovah Irwin & Idan Asher Blank | [Decomposing Surprisal Into Semantic Features: A Case-Study Of Animacy](https://openreview.net/pdf/ca683f198e9992d75bb468ef98e96700ca2eabf1.pdf) |
 | | 10:05 - 10:30 | Esra Eldem Tunc, Zuzanna Fuchs & Elsi Kaiser | [The Role of Coherence Relations in Null and Overt Pronoun Interpretation in Turkish- English Heritage Speakers and Late Bilinguals](https://openreview.net/pdf/78059baa99052710c6d954bcf84e4bb1a1d9dea8.pdf) |
 | ☕🖼️ | 10:30 - 11:45 | Coffee and poster session 1 |-----|
-| | 11:45 - 12:10 | Linh Pham, Elsi Kaiser & Zuzanna Fuchs | [Effect of Predictability on similarity-based interference in Vietnamese Wh-Constructions](https://openreview.net/pdf/217b09440a663c51d3f49ff296f9ee72c2f6b3d9.pdf) |
-| | 12:10 - 12:35 | Noemy Condori Arias & Sherry Chien | [Prosody Beyond Morphology: Encoding Topic in South Bolivian Quechua](https://openreview.net/pdf/41eb4d8c1c435d1f94f70bc4eb7dd324ec9d9a7f.pdf) |
+| B | Session chair: Jesse Harris || |
+| B | 11:45 - 12:10 | Linh Pham, Elsi Kaiser & Zuzanna Fuchs | [Effect of Predictability on similarity-based interference in Vietnamese Wh-Constructions](https://openreview.net/pdf/217b09440a663c51d3f49ff296f9ee72c2f6b3d9.pdf) |
+| B | 12:10 - 12:35 | Noemy Condori Arias & Sherry Chien | [Prosody Beyond Morphology: Encoding Topic in South Bolivian Quechua](https://openreview.net/pdf/41eb4d8c1c435d1f94f70bc4eb7dd324ec9d9a7f.pdf) |
 | 🥪🍎 | 12:35 - 1:40 | Lunch | -----|
-| | 1:40 - 2:05 | Joseph M Denning, Tovah Irwin & Idan Asher Blank | [Lexico-semantic features reveal a dissociation between episodic and mentalizing brain networks during naturalistic English comprehension](https://openreview.net/pdf/452dd607b1bac3108200c6046d867ffa66b5d3c1.pdf) |
-| | 2:05 - 2:30 | Yaqing Tang & Laura Gwilliams | [OPM-MEG Provides Robust Time-Resolved Decoding of Naturalistic Speech](https://openreview.net/pdf/1d9d473a8bfa99ae8ec5caa9e229057e2bc9fdb8.pdf) |
+| C | Session chair: Brandon Woo || |
+| C | 1:40 - 2:05 | Joseph M Denning, Tovah Irwin & Idan Asher Blank | [Lexico-semantic features reveal a dissociation between episodic and mentalizing brain networks during naturalistic English comprehension](https://openreview.net/pdf/452dd607b1bac3108200c6046d867ffa66b5d3c1.pdf) |
+| C | 2:05 - 2:30 | Yaqing Tang & Laura Gwilliams | [OPM-MEG Provides Robust Time-Resolved Decoding of Naturalistic Speech](https://openreview.net/pdf/1d9d473a8bfa99ae8ec5caa9e229057e2bc9fdb8.pdf) |
 | ☕🖼️ | 2:30 - 3:45 | Coffee and poster session 2 |-----|
+| D | Session chair: Ariel Chan|| |
 | | 3:45 - 4:10 | Shawn N. Cummings, Sreyoshi Basu, Chigusa Kurumada & Xin Xie | [Toward Distributional Analyses of Accented Speech Production: The ADAPT Corpus and a Fricative Voicing Case Study](https://openreview.net/pdf/ff43da2610233a1b90a41d16bd8893853fbdaeb4.pdf) |
-| | 4:10 - 4:35 | Will Chih-Chao Chang, Srikantan Nagarajan, John Houde, Connor Mayer & Gregory Hickok | [On the Nature of Planning Targets for Casual and Clear Speech](https://openreview.net/pdf/d6f6dfbb4145ffa4629fbc6afe89e6a3b67e9243.pdf) |
-| | 4:35 - 5:00 | Sherry Chien & Argyro Katsika | [Dissociable Articulatory Strategies for Tone and Focus in Taiwan Mandarin](https://openreview.net/pdf/104f591c8021405ce71c910358af0a02cc39f010.pdf) |
+| D | 4:10 - 4:35 | Will Chih-Chao Chang, Srikantan Nagarajan, John Houde, Connor Mayer & Gregory Hickok | [On the Nature of Planning Targets for Casual and Clear Speech](https://openreview.net/pdf/d6f6dfbb4145ffa4629fbc6afe89e6a3b67e9243.pdf) |
+| D | 4:35 - 5:00 | Sherry Chien & Argyro Katsika | [Dissociable Articulatory Strategies for Tone and Focus in Taiwan Mandarin](https://openreview.net/pdf/104f591c8021405ce71c910358af0a02cc39f010.pdf) |
 
 ## Sunday, Nov 8
 
 | |  Time  | Event/Speaker | Title (link to abstracts) |
 | - | -------- | -------- | -----|
 | ☕🥐 | 9:00 | Coffee and breakfast |-----|
-| | 9:20 - 9:45 | Zoe Ka Pui Cheung & Zoe Liberman | [Judging by How You Speak: The Role of Accent Strength in Children’s Evaluations of Speakers](https://openreview.net/pdf/d37b73938a58fd13945c980a241afa9fbde56f91.pdf) |
-| | 9:45 - 10:10 | Giselle Ellen Ferrer, Kaitlin Lee, Shawn N. Cummings & Xin Xie | [How perceptual is lexically guided perceptual learning?](https://openreview.net/pdf/951fa5f17322cc378ce6e41ba3b817d9bb7abdf3.pdf) |
-| | 10:10 - 10:35 | Yumeng Shen & Sarah C. Creel | [Using ASR to Scale Talker N in L2 Speech Research](https://openreview.net/pdf/5220582f1ebdd13a334a165b0f33bfbf0c064ead.pdf) |
+| E | Session chair: Laurel Brehm || |
+| E | 9:20 - 9:45 | Zoe Ka Pui Cheung & Zoe Liberman | [Judging by How You Speak: The Role of Accent Strength in Children’s Evaluations of Speakers](https://openreview.net/pdf/d37b73938a58fd13945c980a241afa9fbde56f91.pdf) |
+| E | 9:45 - 10:10 | Giselle Ellen Ferrer, Kaitlin Lee, Shawn N. Cummings & Xin Xie | [How perceptual is lexically guided perceptual learning?](https://openreview.net/pdf/951fa5f17322cc378ce6e41ba3b817d9bb7abdf3.pdf) |
+| E | 10:10 - 10:35 | Yumeng Shen & Sarah C. Creel | [Using ASR to Scale Talker N in L2 Speech Research](https://openreview.net/pdf/5220582f1ebdd13a334a165b0f33bfbf0c064ead.pdf) |
 | ☕ | 10:40 - 11:00 | Coffee break |-----|
-| | 11:00 - 11:25 | Metehan Oğuz & Elsi Kaiser | [Processing non-local reflexives: Delayed semantic role cues in Turkish anaphor resolution](https://openreview.net/pdf/879a7047125b1b8a26e8b372f12ebb8616c9035c.pdf) |
-| | 11:25 - 11:50 | Victoria Chang & Alexander LaTourrette | [No Evidence for Cross-situational Syntactic Bootstrapping in Adults](https://openreview.net/pdf/271af08bad3e868ca552fb908af012383d64a382.pdf) |
+| F | Session chair: William Matchin || |
+| F | 11:00 - 11:25 | Metehan Oğuz & Elsi Kaiser | [Processing non-local reflexives: Delayed semantic role cues in Turkish anaphor resolution](https://openreview.net/pdf/879a7047125b1b8a26e8b372f12ebb8616c9035c.pdf) |
+| F | 11:25 - 11:50 | Victoria Chang & Alexander LaTourrette | [No Evidence for Cross-situational Syntactic Bootstrapping in Adults](https://openreview.net/pdf/271af08bad3e868ca552fb908af012383d64a382.pdf) |
 | 👋 | 11:50 - 12:00 | Closing remarks |-----|
 | 🏖️🌮 | 12:20 - 2:00 | Picnic lunch at Goleta Beach Area B |-----|
 
