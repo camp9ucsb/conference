@@ -92,8 +92,8 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | Number | Speaker | Title (link to abstracts) |
 |--- | ------- | --------------------|
 |	1	|	Emily Leach & Micha Elsner	|	[Conceptual category knowledge is not free: Evidence from novel word extension in Large Language Models](https://openreview.net/pdf/9c90685f132f6c3ff319bd07400bf7a099c46f6b.pdf)	|
-|	3	|	Ya-Ning Wu, Xin Xie & Chigusa Kurumada 	|	[Front-loading lexical stress: Positional asymmetries in American English and Mandarin-English speech](https://openreview.net/pdf/300e88c954482ef4eaa38bad4262fee38da9e5b0.pdf)	|
-|	4	|	Jeremy Inthisane, Ma Angela Edith Montiel, Shivani Jitendra Mudhol, Charlotte Burnham & Ariel Shuk Ling Chan  	|	[A Friendly Chat: ERP Evidence of Unconscious Translation in English-French Bilinguals of Varying L2 Proficiencies](https://openreview.net/pdf/f10de3896a731bad3cdb3e53d43bff3ea892c3e5.pdf)	|
+|	2	|	Ya-Ning Wu, Xin Xie & Chigusa Kurumada 	|	[Front-loading lexical stress: Positional asymmetries in American English and Mandarin-English speech](https://openreview.net/pdf/300e88c954482ef4eaa38bad4262fee38da9e5b0.pdf)	|
+|	3	|	Jeremy Inthisane, Ma Angela Edith Montiel, Shivani Jitendra Mudhol, Charlotte Burnham & Ariel Shuk Ling Chan  	|	[A Friendly Chat: ERP Evidence of Unconscious Translation in English-French Bilinguals of Varying L2 Proficiencies](https://openreview.net/pdf/f10de3896a731bad3cdb3e53d43bff3ea892c3e5.pdf)	|
 |	4	|	Zhenyang Tang, Yanting Li, Gregory Scontras & Richard Futrell  	|	[The effect of predictability on the naturalness rating of code-switching](https://openreview.net/pdf/f4cc730ec08134f22d5529bf0f80bae8371bd67c.pdf)	|
 |	5	|	Bethany B. Clements, Lu Liu & Laurel Brehm  	|	[Memory for Contrastive-Pitch Accenting in Cantonese-English Bilinguals](https://openreview.net/pdf/c834f4b3dc02ce64a406f49088faa022486a02be.pdf)	|
 |	6	|	Aditi Anand & Zed Sehyr 	|	[Listening Fatigue and Academic Engagement in Deaf and Hard-of-Hearing Students in University Classrooms](https://openreview.net/pdf/6db9c062a8336d0ca98657a11b74cd7f38d4a013.pdf)	|
