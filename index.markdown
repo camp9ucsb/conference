@@ -33,8 +33,8 @@ All deadlines are 11:59 PM PST.
 * **✅September 4:** Abstract / reviewer registration deadline
 * **✅September 25:** Review deadline
 * **✅October 2:** Notification of decision
-* **October 28:** Registration deadline [(register here)](https://forms.gle/zVwXrwENFXfNWpXS6)
-* **November 6-8:** CAMP\[9\]!
+* **✅October 28:** Registration deadline [(register here)](https://forms.gle/zVwXrwENFXfNWpXS6)
+* **✅November 6-8:** CAMP\[9\]!
 
 ## 📧 Join the Mailing List!
 For announcements about CAMP[9] and future CAMPs: Visit [https://groups.google.com/g/camp-psycholing](https://groups.google.com/g/camp-psycholing) while logged into a google account and click the button by the group name that says “Ask to join group”.
