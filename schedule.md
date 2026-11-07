@@ -82,7 +82,7 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 |	7	|	Haley Hsu & Elsi Kaiser 	|	[Um, Actually: Real-time processing of erroneous input containing multiple errors](https://openreview.net/pdf/1fee5713baba1edd4a054043acf1fdf49c97668c.pdf) |
 |	8	|	Christian Muxica & Jesse Harris  	|	[Illusory contrast in the comprehension of focus](https://openreview.net/pdf/e91071d523a1eba5fe03ee6a2435006618fc38b5.pdf)	|
 |	9	|	Evan Hochstein & Jesse Harris  	|	[Context-dependence and cue–feature mappings in animate pronoun resolution](https://openreview.net/pdf/25ef762abbd9e24d642bef24bf86d1fe55679cb2.pdf)	|
-|	10	|	Yuting Gu, Dan Quoc Nguyen, Chigusa Kurumada & Xin Xie  	|	[What tunes accent processing? Dissociating type and channel of input in Mandarin-English heritage bilinguals](https://openreview.net/pdf/6417b14e9a6248dbffb3168e22946f0462b24e89.pdf)	|
+|	10	|	Ya-Ning Wu, Xin Xie & Chigusa Kurumada 	|	[Front-loading lexical stress: Positional asymmetries in American English and Mandarin-English speech](https://openreview.net/pdf/300e88c954482ef4eaa38bad4262fee38da9e5b0.pdf)	|
 |	11	|	Landi Jiang & Alexis Wellwood 	|	[Context effects in the interpretation of more furniture](https://openreview.net/pdf/3c527149d1c555315179169acb09237c80c1d92b.pdf)	|
 |	12	|	Karina Sheifer  	|	[Aligning Syntactic Structure and Prosodic Boundaries in Sakha](https://openreview.net/pdf/fbdad9ef06208aed7344df972b758b8dc5048540.pdf)	|
 |	13	|	William Matchin	|	[Rational adaptation does not explain agrammatic speech in aphasia](https://openreview.net/pdf/4c516b2ea7d141c8ec20d31a7aeb3faf6644b448.pdf)	|
@@ -92,7 +92,7 @@ The conference will have CART captioning: [links are here](assets/CART_CAMP9.pdf
 | Number | Speaker | Title (link to abstracts) |
 |--- | ------- | --------------------|
 |	1	|	Emily Leach & Micha Elsner	|	[Conceptual category knowledge is not free: Evidence from novel word extension in Large Language Models](https://openreview.net/pdf/9c90685f132f6c3ff319bd07400bf7a099c46f6b.pdf)	|
-|	2	|	Ya-Ning Wu, Xin Xie & Chigusa Kurumada 	|	[Front-loading lexical stress: Positional asymmetries in American English and Mandarin-English speech](https://openreview.net/pdf/300e88c954482ef4eaa38bad4262fee38da9e5b0.pdf)	|
+|	2	| Yuting Gu, Dan Quoc Nguyen, Chigusa Kurumada & Xin Xie  	|	[What tunes accent processing? Dissociating type and channel of input in Mandarin-English heritage bilinguals](https://openreview.net/pdf/6417b14e9a6248dbffb3168e22946f0462b24e89.pdf)	|
 |	3	|	Jeremy Inthisane, Ma Angela Edith Montiel, Shivani Jitendra Mudhol, Charlotte Burnham & Ariel Shuk Ling Chan  	|	[A Friendly Chat: ERP Evidence of Unconscious Translation in English-French Bilinguals of Varying L2 Proficiencies](https://openreview.net/pdf/f10de3896a731bad3cdb3e53d43bff3ea892c3e5.pdf)	|
 |	4	|	Zhenyang Tang, Yanting Li, Gregory Scontras & Richard Futrell  	|	[The effect of predictability on the naturalness rating of code-switching](https://openreview.net/pdf/f4cc730ec08134f22d5529bf0f80bae8371bd67c.pdf)	|
 |	5	|	Bethany B. Clements, Lu Liu & Laurel Brehm  	|	[Memory for Contrastive-Pitch Accenting in Cantonese-English Bilinguals](https://openreview.net/pdf/c834f4b3dc02ce64a406f49088faa022486a02be.pdf)	|
